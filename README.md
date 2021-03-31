@@ -1,2 +1,2 @@
 # cvac
-CvacParticles.
+Cvac Particles [SSVGMOD]
